@@ -10,6 +10,5 @@ public class eurekaMain {
 	public static void main(String[] args) {
 		SpringApplication.run(eurekaMain.class, args);
 		System.out.println("进来啦");
-		System.out.println("我是从上面下来的！");
 	}
 }
